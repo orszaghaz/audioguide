@@ -10,10 +10,10 @@ title: Kossuth ter - Audioguide
 email: your-email@example.com
 description: > # this means to ignore newlines until "baseurl:"
   A web-based audio guide theme for Jekyll.
-baseurl: "https://orszaghaz.github.io/audioguide/" # the subpath of your site, e.g. /blog
+baseurl: "/audioguide" # the subpath of your site, e.g. /blog
 audio_path: "/audio/"
 episode_hero_path: "/assets/img/stops/"
-url: "http://www.example.com" # the base hostname & protocol for your site
+url: "https://orszaghaz.github.io" # the base hostname & protocol for your site
 logo: "/assets/img/logo/audio-guide.png"
 twitter_username: 
 github_username:  orszaghaz
