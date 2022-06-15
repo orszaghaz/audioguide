@@ -15,8 +15,6 @@ audio_path: "/audio/"
 episode_hero_path: "/assets/img/stops/"
 url: "https://orszaghaz.github.io"
 logo: "/assets/img/logo/audio-guide.png"
-twitter_username: 
-github_username:  orszaghaz
 menu_heading: "Select another stop"
 index_page_text: "Select an audio guide stop to begin."
 headphones_icon_color: "/assets/img/icons/headphones-dark.png"
