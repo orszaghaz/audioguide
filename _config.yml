@@ -7,7 +7,6 @@
 
 # Site settings
 title: Kossuth ter - Audioguide
-email: your-email@example.com
 description: > # this means to ignore newlines until "baseurl:"
   A web-based audio guide theme for Jekyll.
 baseurl: "/audioguide" # the subpath of your site, e.g. /blog
@@ -15,8 +14,8 @@ audio_path: "/audio/"
 episode_hero_path: "/assets/img/stops/"
 url: "https://orszaghaz.github.io"
 logo: "/assets/img/logo/audio-guide.png"
-menu_heading: "Select another stop"
-index_page_text: "Select an audio guide stop to begin."
+menu_heading: "Válasszon másik megállót"
+index_page_text: "Válasszon ki egy audioguide megállót a kezdéshez."
 headphones_icon_color: "/assets/img/icons/headphones-dark.png"
 headphones_icon_light: "/assets/img/icons/headphones-light.png"
 
